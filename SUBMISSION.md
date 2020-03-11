@@ -8,11 +8,11 @@ Add your screen captures to a new directory called [images](images).
 
 # DOCKER        
 - [5 pts] Your dockerfile. Please provide a link to this file rather than a screen capture.
-![Screen Capture #1](images/1.png)
+[Link] (https://github.com/Tylon-ldd/spring-petclinic-hw08/blob/master/Dockerfile)
 - [5 pts] Your running docker instance as shown by a ps command.
-![Screen Capture #1](images/2.png)
+![Screen Capture #1](images/docker-2.png)
 - [5 pts] Your browser accessing the main page of the website from your local container.
-![Screen Capture #1](images/3.png)
+![Screen Capture #1](images/docker-3.png)
 
 # DOCKER COMPOSE - MYSQL ONLY
 - [5 pts] The output from the docker-compose up command.
