@@ -8,7 +8,7 @@ Add your screen captures to a new directory called [images](images).
 
 # DOCKER        
 - [5 pts] Your dockerfile. Please provide a link to this file rather than a screen capture.
-[Dockerfile] (../blob/master/Dockerfile)
+[Dockerfile] (https://github.com/Tylon-ldd/spring-petclinic-hw08/blob/master/Dockerfile)
 - [5 pts] Your running docker instance as shown by a ps command.
 ![Screen Capture #1](images/docker-2.png)
 - [5 pts] Your browser accessing the main page of the website from your local container.
@@ -29,10 +29,10 @@ container that has been updated to use MySQL.
 - [5 pts] Your updated docker-compose.yml file containing the application server, built from
 your local Dockerfile, and the existing MySQL configuration. Please provide a link
 to this file rather than a screen capture.
-[docker-compose.yml] (../blob/master/docker-compose.yml)
+[docker-compose.yml] (https://github.com/Tylon-ldd/spring-petclinic-hw08/blob/master/docker-compose.yml)
 - [5 pts] Your updated application-mysql.properties file containing the URL change for
 the database server. Please provide a link to this file rather than a screen capture.
-[application-mysql.properties] (../blob/master/src/main/resources/application-mysql.properties)
+[application-mysql.properties] (https://github.com/Tylon-ldd/spring-petclinic-hw08/blob/master/src/main/resources/application-mysql.properties)
 - [5 pts] The output from the docker-compose up command.
 ![Screen Capture #1](images/docker-app-compose-up.png)
 ![Screen Capture #1](images/docker-app-compose-up-2.png)
